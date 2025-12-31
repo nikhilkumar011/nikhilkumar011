@@ -27,4 +27,7 @@
 ## 📊 Top Languages
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilkumar011&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhilkumar011&show_icons=true&theme=tokyonight)
+
+
 
