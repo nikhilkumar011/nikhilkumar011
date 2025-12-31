@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://startling-paletas-1f926c.netlify.app/](https://startling-paletas-1f926c.netlify.app/)
+- 👨‍💻 Portfolio [https://startling-paletas-1f926c.netlify.app/](https://startling-paletas-1f926c.netlify.app/)
 
 - 💬 Ask me about **MERN, python, C++**
 
