@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 Portfolio [https://rainbow-cendol-e359ee.netlify.app/](https://rainbow-cendol-e359ee.netlify.app)
+- 👨‍💻 Portfolio [https://portfolio-website-gamma-ten-91.vercel.app/](https://portfolio-website-gamma-ten-91.vercel.app/)
 
 - 💬 Ask me about **MERN, python, C++**
 
