@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full stack web development<br>Ask me about MERN, c++, python
+Developing scalable web applications with MERN and Next.js
 
 
 ## 🌐 Socials:
